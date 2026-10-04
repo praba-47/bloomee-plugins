@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "plugins": [
     {
-      "id": "jisaavn",
-      "name": "JioSaavn",
-      "version": "v2",
-      "author": "bloomfactory",
-      "description": "Stream music from JioSaavn",
-      "downloadUrl": "https://github.com/kojima-ui/bloom-factory/releases/download/factory11/jisaavn.bex"
-    }
+  "id": "content-importer.bloomfactory.jiosaavnimporter",
+  "name": "jiosaavn-importer",
+  "version": "1",
+  "type": "content-importer",
+  "publisher": {"name": "bloomfactory"},
+  "description": "Import Jiosaavn playlists and albums into bloomee."
+}
   ]
 }
