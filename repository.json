@@ -6,9 +6,10 @@
     {
       "id": "ytmusic",
       "name": "YouTube Music",
-      "version": "5",
+      "version": "6",
       "author": "bloomfactory",
       "description": "Stream music from YouTube Music",
+      "type": "contentResolver",
       "downloadUrl": "https://github.com/kojima-ui/bloom-factory/releases/download/factory11/ytmusic.bex"
     }
   ]
