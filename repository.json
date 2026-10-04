@@ -1,15 +1,9 @@
-{
-  "name": "Praba Plugins",
-  "description": "Custom plugins repository for Bloomee",
-  "version": "1.0.0",
-  "plugins": [
-    {
-      "id": "jisaavn",
-      "name": "JioSaavn",
-      "version": "v2",
-      "author": "bloomfactory",
-      "description": "Stream music from JioSaavn",
-      "downloadUrl": "https://github.com/kojima-ui/bloom-factory/releases/download/factory11/jisaavn.bex"
-    }
-  ]
-}
+Dismissible(
+  key: const Key('mini_player'),
+  direction: DismissDirection.down,   // swipe down to close
+  onDismissed: (_) async {
+    await audioHandler.stop();        // stop playback, clears current song
+    // or: setState(() => showMiniPlayer = false);
+  },
+  child: YourMiniPlayerWidget(),
+)
