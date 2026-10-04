@@ -4,11 +4,12 @@
   "version": "1.0.0",
   "plugins": [
     {
-      "id": "praba-ytmusic",
-      "name": "Praba YT Music",
+      "id": "my-ytmusic",
+      "name": "Praba YouTube Music",
       "version": "1.0.0",
       "author": "praba-47",
-      "description": "Custom YouTube Music resolver",
+      "description": "YouTube Music source for Bloomee",
+      "type": "contentResolver",
       "downloadUrl": "https://github.com/kojima-ui/bloom-factory/releases/download/factory11/ytmusic.bex"
     }
   ]
