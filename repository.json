@@ -4,12 +4,11 @@
   "version": "1.0.0",
   "plugins": [
     {
-      "id": "ytmusic",
-      "name": "YouTube Music",
-      "version": "6",
-      "author": "bloomfactory",
-      "description": "Stream music from YouTube Music",
-      "type": "contentResolver",
+      "id": "praba-ytmusic",
+      "name": "Praba YT Music",
+      "version": "1.0.0",
+      "author": "praba-47",
+      "description": "Custom YouTube Music resolver",
       "downloadUrl": "https://github.com/kojima-ui/bloom-factory/releases/download/factory11/ytmusic.bex"
     }
   ]
