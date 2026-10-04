@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "plugins": [
     {
-      "id": "sample-plugin",
-      "name": "Test Plugin",
+      "id": "ytmusic",
+      "name": "YouTube Music",
       "version": "1.0.0",
-      "author": "praba-47",
-      "description": "Testing repository display",
-      "downloadUrl": "https://github.com"
+      "author": "kojima-ui",
+      "description": "Stream music from YouTube Music",
+      "downloadUrl": "https://github.com/kojima-ui/bloom-factory/releases/download/factory11/ytmusic.bex"
     }
   ]
 }
