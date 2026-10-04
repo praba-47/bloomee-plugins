@@ -1,17 +1,15 @@
 {
   "name": "Praba Plugins",
   "description": "Custom plugins repository for Bloomee",
-  "version": 1,
+  "version": "1.0.0",
   "plugins": [
     {
-      "id": "my-ytmusic",
-      "name": "Praba YouTube Music",
-      "version": 6,
-      "apiVersion": 1,
-      "publisher": "praba-47",
-      "description": "YouTube Music source for Bloomee",
-      "type": "contentResolver",
-      "downloadUrl": "https://github.com/kojima-ui/bloom-factory/releases/download/factory11/ytmusic.bex"
+      "id": "jisaavn",
+      "name": "JioSaavn",
+      "version": "v2",
+      "author": "bloomfactory",
+      "description": "Stream music from JioSaavn",
+      "downloadUrl": "https://github.com/kojima-ui/bloom-factory/releases/download/factory11/jisaavn.bex"
     }
   ]
 }
