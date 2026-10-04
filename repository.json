@@ -2,5 +2,14 @@
   "name": "Praba Plugins",
   "description": "Custom plugins repository for Bloomee",
   "version": "1.0.0",
-  "plugins": []
+  "plugins": [
+    {
+      "id": "sample-plugin",
+      "name": "Test Plugin",
+      "version": "1.0.0",
+      "author": "praba-47",
+      "description": "Testing repository display",
+      "downloadUrl": "https://github.com"
+    }
+  ]
 }
