@@ -10,6 +10,6 @@
   "type": "content-importer",
   "publisher": {"name": "bloomfactory"},
   "description": "Import Jiosaavn playlists and albums into bloomee."
-}
+    }
   ]
 }
