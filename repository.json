@@ -6,8 +6,8 @@
     {
       "id": "ytmusic",
       "name": "YouTube Music",
-      "version": "2.0.0",
-      "author": "kojima-ui",
+      "version": "5",
+      "author": "bloomfactory",
       "description": "Stream music from YouTube Music",
       "downloadUrl": "https://github.com/kojima-ui/bloom-factory/releases/download/factory11/ytmusic.bex"
     }
