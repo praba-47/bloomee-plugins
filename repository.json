@@ -4,12 +4,14 @@
   "version": "1.0.0",
   "plugins": [
     {
-  "id": "content-importer.bloomfactory.jiosaavnimporter",
-  "name": "jiosaavn-importer",
-  "version": "1",
-  "type": "content-importer",
-  "publisher": {"name": "bloomfactory"},
-  "description": "Import Jiosaavn playlists and albums into bloomee."
+      "id": "content-importer.bloomfactory.jiosaavnimporter",
+      "name": "jiosaavn-importer",
+      "version": "1",
+      "type": "content-importer",
+      "publisher": {"name": "bloomfactory"},
+      "description": "Import Jiosaavn playlists and albums into bloomee.",
+      "thumbnail_url": "https://www.jiosaavn.com/favicon.ico",
+      "downloadUrl": "https://github.com/praba-47/bloomee-plugins/releases/download/v1/jiosaavnimporter.bex"
     }
   ]
 }
